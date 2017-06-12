@@ -1,0 +1,13 @@
+c:\users\ciril\documents\visual studio 2015\Projects\PoderDoHabito\PoderDoHabito\bin\Debug\PoderDoHabito.exe.config
+c:\users\ciril\documents\visual studio 2015\Projects\PoderDoHabito\PoderDoHabito\bin\Debug\PoderDoHabito.exe
+c:\users\ciril\documents\visual studio 2015\Projects\PoderDoHabito\PoderDoHabito\bin\Debug\PoderDoHabito.pdb
+c:\users\ciril\documents\visual studio 2015\Projects\PoderDoHabito\PoderDoHabito\obj\Debug\PoderDoHabito.csprojResolveAssemblyReference.cache
+c:\users\ciril\documents\visual studio 2015\Projects\PoderDoHabito\PoderDoHabito\obj\Debug\PoderDoHabito.Form1.resources
+c:\users\ciril\documents\visual studio 2015\Projects\PoderDoHabito\PoderDoHabito\obj\Debug\PoderDoHabito.Properties.Resources.resources
+c:\users\ciril\documents\visual studio 2015\Projects\PoderDoHabito\PoderDoHabito\obj\Debug\PoderDoHabito.csproj.GenerateResource.Cache
+c:\users\ciril\documents\visual studio 2015\Projects\PoderDoHabito\PoderDoHabito\obj\Debug\PoderDoHabito.exe
+c:\users\ciril\documents\visual studio 2015\Projects\PoderDoHabito\PoderDoHabito\obj\Debug\PoderDoHabito.pdb
+C:\Users\ciril\Documents\Visual Studio 2015\Projects\PoderDoHabito\PoderDoHabito\obj\Debug\PoderDoHabito.PesoIdeal.resources
+C:\Users\ciril\Documents\Visual Studio 2015\Projects\PoderDoHabito\PoderDoHabito\obj\Debug\PoderDoHabito.CalculoRecompensa.resources
+C:\Users\ciril\Documents\Visual Studio 2015\Projects\PoderDoHabito\PoderDoHabito\obj\Debug\PoderDoHabito.Incetivo.resources
+C:\Users\ciril\Documents\Visual Studio 2015\Projects\PoderDoHabito\PoderDoHabito\obj\Debug\PoderDoHabito.Magro.resources
